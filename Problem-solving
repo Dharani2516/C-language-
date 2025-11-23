@@ -1,0 +1,15 @@
+// sum and average of numbers
+#include<stdio.h>
+#include<conio.h>
+void main()
+{ 
+   int a,b,c,sum,avg ;
+   clrscr();
+   printf("enter the values");
+   scanf("%d\n%d\n%d",&a,&b,&c);
+   sum =a+b+c
+   avg =sum/3
+  printf("%d",sum);
+  printf("%d ",avg);
+  getch();
+}  
