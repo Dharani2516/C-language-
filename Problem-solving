@@ -11,6 +11,6 @@ void main()
    sum =a+b+c
    avg =sum/3
   printf("%d",sum);
-  printf("%d ",avg);
+  printf("%f",avg);
   getch();
 }  
