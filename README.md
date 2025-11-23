@@ -1,1 +1,9 @@
 # C-language-
+ // sample program 
+ #include<studio.h>
+ #include<conio.h>
+ void main() 
+{
+    printf("Hello!World");
+    getch();
+}
