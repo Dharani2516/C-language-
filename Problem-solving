@@ -3,7 +3,8 @@
 #include<conio.h>
 void main()
 { 
-   int a,b,c,sum,avg ;
+   int a,b,c,sum;
+   float avg;
    clrscr();
    printf("enter the values");
    scanf("%d\n%d\n%d",&a,&b,&c);
