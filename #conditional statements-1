@@ -1,0 +1,20 @@
+//program to find even or odd
+//if-else condition
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+   int n;
+  clrscr();
+  printf("enter the values");
+  scanf("%d",&n);
+  if(n%2==0)
+    {
+    printf("even number");
+    }
+  else
+    {
+    printf("odd number");
+    }
+  getch();
+  }
